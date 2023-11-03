@@ -1,0 +1,1 @@
+[{"input": "1440 5 5", "hidden": true, "output": "Compound interest = 1837.8454500000005", "maxTimeLimitInMilliSeconds": 100}, {"input": "222 6 20", "hidden": true, "output": "Compound interest = 662.8884479999998", "maxTimeLimitInMilliSeconds": 100}, {"input": "3500 2 51", "hidden": true, "output": "Compound interest = 7980.35", "maxTimeLimitInMilliSeconds": 100}]

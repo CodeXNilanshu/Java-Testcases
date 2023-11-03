@@ -1,0 +1,1 @@
+[{"input": "1440 5 5", "hidden": true, "output": "Simple interest = 360.0", "maxTimeLimitInMilliSeconds": 100}, {"input": "222 6 20", "hidden": true, "output": "Simple interest = 266.4", "maxTimeLimitInMilliSeconds": 100}, {"input": "3500 2 51", "hidden": true, "output": "Simple interest = 3570.0", "maxTimeLimitInMilliSeconds": 100}]

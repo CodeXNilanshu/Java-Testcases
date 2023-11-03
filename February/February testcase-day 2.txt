@@ -1,0 +1,1 @@
+[{"input": "5", "hidden": true, "output": "    *\n   **\n  ***\n ****\n*****", "maxTimeLimitInMilliSeconds": 100},{"input": "3", "hidden": true, "output": "  *\n **\n***", "maxTimeLimitInMilliSeconds": 100}]

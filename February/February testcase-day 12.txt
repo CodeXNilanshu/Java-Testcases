@@ -1,0 +1,1 @@
+[{"input": "2420", "hidden": true, "output": "174.3864010946645", "maxTimeLimitInMilliSeconds": 100}, {"input": "620", "hidden": true, "output": "88.26748994336864", "maxTimeLimitInMilliSeconds": 100}, {"input": "51", "hidden": true, "output": "25.3157046382738", "maxTimeLimitInMilliSeconds": 100}]
