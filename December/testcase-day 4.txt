@@ -1,0 +1,1 @@
+[{"input": "1524 2345 3321", "hidden": true, "output": "Increasing order", "maxTimeLimitInMilliSeconds": 100},{"input": "5632 2345 1321", "hidden": true, "output": "Decreasing order", "maxTimeLimitInMilliSeconds": 100}]

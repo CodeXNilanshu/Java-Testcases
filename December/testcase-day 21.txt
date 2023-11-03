@@ -1,0 +1,1 @@
+[{"input": "2", "hidden": true, "output": "Tuesday", "maxTimeLimitInMilliSeconds": 100}, {"input": "3", "hidden": true, "output": "Wednesday", "maxTimeLimitInMilliSeconds": 100}, {"input": "5", "hidden": true, "output": "Friday", "maxTimeLimitInMilliSeconds": 100}, {"input": "2", "hidden": true, "output": "Tuesday", "maxTimeLimitInMilliSeconds": 100}]

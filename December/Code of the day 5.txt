@@ -1,0 +1,195 @@
+import java.util.Scanner;
+public class Main {
+public static void main(String[] args)
+ {
+   /*
+       *            1
+       ***          2
+       *****        3
+       *******      4
+       *****        5
+       ***          6           
+       *            7
+   */
+   
+   /*
+       1            1
+       212          2
+       32123        3
+       4321234      4
+       32123        5
+       212          6           
+       1            7
+   */
+   
+   /*
+        1            1
+       212           2
+      32123          3
+     4321234         4
+      32123          5
+       212           6           
+        1            7
+   */
+   
+   
+    
+    int noOfColumns = 1;
+    int start = 0;
+    int noOfSpaces =3;
+     
+    for(int i = 1; i<=7;i++ )
+    {
+      
+         
+       for (int j=1; j<=noOfSpaces;j++)
+       {
+           
+           System.out.print(" ");
+       }
+        if(i<4)
+        {
+            start = i;
+            noOfSpaces = noOfSpaces-1;
+        
+        }
+        else
+        {
+            start = 8-i;
+            noOfSpaces = noOfSpaces+1;
+        }
+       
+       
+       for (int j = 1; j<=noOfColumns; j++)
+    {
+      
+       System.out.print(start);
+       
+       int middleColumn = (noOfColumns/2) +1;
+       if (j<middleColumn)
+       {
+           start--;
+       }
+       else
+       {
+           start++;
+       }
+    }
+    
+        System.out.println();
+        
+        if (i<4)
+        {
+        noOfColumns = noOfColumns + 2;
+        }
+        else
+        {
+           noOfColumns = noOfColumns - 2;
+        }
+    }
+ }
+}
+
+
+/*
+
+
+
+
+
+
+
+*/
+
+
+import java.util.Scanner;
+public class Main {
+public static void main(String[] args)
+ {
+   /*
+       *            1
+       ***          2
+       *****        3
+       *******      4
+       *****        5
+       ***          6           
+       *            7
+   */
+   
+   /*
+       1            1
+       212          2
+       32123        3
+       4321234      4
+       32123        5
+       212          6           
+       1            7
+   */
+   
+   /*
+        1            1
+       212           2
+      32123          3
+     4321234         4
+      32123          5
+       212           6           
+        1            7
+   */
+   
+   
+    int size = 9;
+    int noOfColumns = 1;
+    int start = 0;
+    int noOfSpaces =size/2;
+     
+    for(int i = 1; i<=size;i++ )
+    { 
+      
+         
+       for (int j=1; j<=noOfSpaces;j++)
+       {
+           
+           System.out.print(" ");
+       }
+        if(i<(size/2)+1)
+        {
+            start = i;
+            noOfSpaces = noOfSpaces-1;
+        
+        }
+        else
+        {
+            start = (size+1)-i;
+            noOfSpaces = noOfSpaces+1;
+        }
+       
+       
+       for (int j = 1; j<=noOfColumns; j++)
+    {
+      
+       System.out.print(start);
+       
+       int middleColumn = (noOfColumns/2) +1;
+       if (j<middleColumn)
+       {
+           start--;
+       }
+       else
+       {
+           start++;
+       }
+    }
+    
+        System.out.println();
+        
+        if (i<(size/2)+1)
+        {
+        noOfColumns = noOfColumns + 2;
+        }
+        else
+        {
+           noOfColumns = noOfColumns - 2;
+        }
+    }
+ }
+}

@@ -1,0 +1,1 @@
+[{"input": "3", "hidden": true, "output": "1\n   212\n  32123\n 431234\n543212345\n 4321234\n  32123\n   212\n    1", "maxTimeLimitInMilliSeconds": 100},]
