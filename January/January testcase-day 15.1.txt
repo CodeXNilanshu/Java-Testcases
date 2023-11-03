@@ -1,0 +1,1 @@
+[{"input": "16", "hidden": true, "output": "Number is positive", "maxTimeLimitInMilliSeconds": 100}, {"input": "95", "hidden": true, "output": "Number is positive", "maxTimeLimitInMilliSeconds": 100}, {"input": "-75", "hidden": true, "output": "Number is negative", "maxTimeLimitInMilliSeconds": 100}]

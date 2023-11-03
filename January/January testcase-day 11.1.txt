@@ -1,0 +1,1 @@
+[{"input": "12", "hidden": true, "output": "12 x 1 = 12\n12 x 2 = 24\n12 x 3 = 36\n12 x 4 = 48\n12 x 5 = 60\n12 x 6 = 72\n12 x 7 = 84\n12 x 8 = 96\n12 x 9 = 108\n12 x 10 = 120\n", "maxTimeLimitInMilliSeconds": 100}]

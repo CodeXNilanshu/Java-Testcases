@@ -1,0 +1,1 @@
+[{"input": "16", "hidden": true, "output": "below average", "maxTimeLimitInMilliSeconds": 100}, {"input": "95", "hidden": true, "output": "excellent", "maxTimeLimitInMilliSeconds": 100}, {"input": "75", "hidden": true, "output": "fair", "maxTimeLimitInMilliSeconds": 100}]

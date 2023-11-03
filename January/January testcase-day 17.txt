@@ -1,0 +1,1 @@
+[{"input": "16 18", "hidden": true, "output": "Parameter is = 68.0\narea is = 288.0", "maxTimeLimitInMilliSeconds": 100}, {"input": "115 125", "hidden": true, "output": "Parameter is = 480.0\narea is = 14375.0", "maxTimeLimitInMilliSeconds": 100}, {"input": "41 11", "hidden": true, "output": "Parameter is = 104.0\narea is = 451.0", "maxTimeLimitInMilliSeconds": 100}]

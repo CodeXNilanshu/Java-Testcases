@@ -1,0 +1,1 @@
+[{"input": "12", "hidden": true, "output": "Number is not a cube", "maxTimeLimitInMilliSeconds": 100}, {"input": "42", "hidden": true, "output": "Number is not a cube", "maxTimeLimitInMilliSeconds": 100}, {"input": "27", "hidden": true, "output": "Number is a cube", "maxTimeLimitInMilliSeconds": 100}]
